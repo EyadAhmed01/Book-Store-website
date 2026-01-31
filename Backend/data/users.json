@@ -1,0 +1,13 @@
+[
+  {
+    "user_id": 1,
+    "email": "e@h.com",
+    "password": "$2b$10$9gxSYQ.XQg.oIrnpKGd0s.V33BgYng6ZwkOZw.xa0u4Kja69EOeDq",
+    "first_name": "eydos",
+    "last_name": "ahemed",
+    "phone": "01276270454",
+    "address": "erfsc",
+    "user_type": "CUSTOMER",
+    "created_at": "2026-01-31T03:18:46.182Z"
+  }
+]
